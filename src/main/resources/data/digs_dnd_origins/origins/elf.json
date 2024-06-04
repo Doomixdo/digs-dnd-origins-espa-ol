@@ -1,4 +1,5 @@
 {
+	"loading_priority": 1,
 	"powers": [
 		"digs_dnd_origins:elf/description_high",
 		"digs_dnd_origins:elf/description_wood",
